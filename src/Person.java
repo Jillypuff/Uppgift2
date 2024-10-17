@@ -1,0 +1,1 @@
+public record Person(String personNumber, String fullName, String lastYearlyPayment) {}
